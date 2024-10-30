@@ -21,3 +21,12 @@ while true; do
   # Wait 10seconds before re-starting the script again
   sleep 10
 done
+
+#--------------------------------------------
+
+#-!!!!!!!!!!!!!!!                  WARNING                    !!!!!!!!!!!!!!!!!!!
+
+#This article is for educational purposes only, the author is not responsible for their misuse by unauthorized persons.
+
+#best regards,
+#Arlind Rexha
